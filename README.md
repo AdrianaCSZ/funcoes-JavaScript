@@ -13,3 +13,6 @@ function calculaIdade(anos) {
 		this.idade + anos
 	} anos de idade.`;
 }
+
+Bootcamp realizado da DIO: TQI Full Stack Developer - Julho/2022 Ministrado por Stephany Nusch (Software Engenieer)
+
